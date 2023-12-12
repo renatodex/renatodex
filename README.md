@@ -1,4 +1,4 @@
-### A Warm Greeting from Brazil! 🇧🇷
+### A Warm Greeting from Brazil!🌴
 
 I'm Renato Alves, and I work as a FullStack Software Engineer!
 I'm passionate about developing with Ruby and React, but also have extensive experience working in flexible stacks varying from NodeJS to Python on the backend, and Typescript, Vue, NextJS, and many other frameworks on the Frontend.
